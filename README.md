@@ -89,7 +89,7 @@ Full OpenAPI docs available at `/api/docs` in dev.
    Deploys Workers + static assets (SPA fallback).
 
 3. **One-Click Deploy**:
-   [cloudflarebutton]
+   [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ShailendraMehar/alphabate-intelligence-report)
 
 ### Production Notes
 
